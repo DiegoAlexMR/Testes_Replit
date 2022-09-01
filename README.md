@@ -1,2 +1,3 @@
-# Testes_Replit
-Serve para testes do Replit
+# Testes_IESB
+
+Fiz esse repositorio para fazer testes de programação para testar programas da faculdade.
